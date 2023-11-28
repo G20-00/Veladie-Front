@@ -1,0 +1,27 @@
+<div class="w-full">
+    <div class="bg-gray-950 text-white w-full h-1/2 shadow-lg p-6">
+        <div class="flex justify-around">
+            <div class="flex flex-col" *ngIf="category && selectedSection">
+                <div *ngFor="let cat of category.categories">
+                    <div *ngIf="cat.id === selectedSection">
+                        <div class="grid grid-cols-2 gap-4">
+                            <div>
+                                <div *ngFor="let section of cat.sections">
+                                    <h1 class="text-center">{{ section.name }}</h1>
+                                    <button mat-button *ngFor="let item of section.items">{{ item.name }}</button>
+                                </div>
+                            </div>
+                            <div class="hidden lg:block">
+                                <div class="mb-5">
+                                    <img class="w-[19rem] h-[20rem] object-cover object-top rounded-md" 
+                                    src="https://cdn.shopify.com/s/files/1/0049/3649/9315/products/koskii-yellow-printed-semicrepe-designer-readymadelehenga-gcrm0029461_yellow_1_1800x1800.jpg?v=1682068296" alt="">
+                                </div>
+                                <p class="text-gray-600">New Arrival</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

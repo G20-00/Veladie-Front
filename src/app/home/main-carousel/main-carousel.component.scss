@@ -1,0 +1,26 @@
+.relative {
+    position: relative;
+}
+
+.carousel-container {
+    overflow-x: auto; /* Cambia a 'auto' para habilitar el desplazamiento horizontal */
+    white-space: nowrap; /* Evita el salto de línea para que las imágenes se muestren una al lado de la otra */
+}
+
+.carousel {
+    display: inline-block; /* Cambia a 'inline-block' para que las imágenes se muestren en línea */
+    vertical-align: top; /* Alinea las imágenes en la parte superior */
+    white-space: nowrap; /* Evita el salto de línea */
+}
+
+.carousel-item {
+    width: 100%; /* Establece el ancho del elemento del carrusel al 100% */
+    display: inline-block; /* Muestra cada elemento del carrusel en línea */
+    vertical-align: top; /* Alinea los elementos del carrusel en la parte superior */
+}
+
+.carousel img {
+    max-width: 100%; /* Asegura que las imágenes no superen el ancho del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    object-fit: contain; /* Ajusta la imagen para que quepa sin perder la proporción */
+}

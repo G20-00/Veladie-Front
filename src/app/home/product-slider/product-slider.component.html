@@ -1,0 +1,17 @@
+<div style="padding: 1.25rem; /* Equivalente a p-5 en Tailwind */
+            padding-left: 5rem; /* Equivalente a lg:px-20 en Tailwind */
+            padding-right: 5rem; /* Equivalente a lg:px-20 en Tailwind */
+            padding-top: 2.5rem; /* Equivalente a lg:py-10 en Tailwind */
+            padding-bottom: 2.5rem; /* Equivalente a lg:py-10 en Tailwind */">
+    <p style="font-weight: 600; /* Equivalente a font-semibold en Tailwind */
+              font-size: 2.1rem; /* Equivalente a text-2x1 en Tailwind */
+              opacity: 0.75;">{{ title }}</p>
+
+    <div style="display: flex; /* Equivalente a flex en Tailwind */
+                flex-wrap: wrap; /* Equivalente a flex-wrap en Tailwind */
+                justify-content: center; /* Equivalente a justify-center en Tailwind */">
+        <ng-container *ngFor="let item of products">
+            <app-home-product-card [product]="item"></app-home-product-card>
+        </ng-container>
+    </div>
+</div>
