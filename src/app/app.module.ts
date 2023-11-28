@@ -13,6 +13,7 @@ import { NavContentComponent } from './navbar/nav-content/nav-content.component'
 import {MatIconModule} from '@angular/material/icon';
 import {MatButtonModule} from '@angular/material/button';
 import {MatMenuModule} from '@angular/material/menu';
+import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -21,7 +22,8 @@ import {MatMenuModule} from '@angular/material/menu';
     HomeProductCardComponent,
     ProductSliderComponent,
     NavbarComponent,
-    NavContentComponent
+    NavContentComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
