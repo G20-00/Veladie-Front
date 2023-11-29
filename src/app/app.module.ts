@@ -11,6 +11,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatMenuModule} from '@angular/material/menu';
 import { FeatureModule } from './Module/feature/feature.module';
 import { SharedModule } from './Module/shared/shared.module';
+import { AdminModule } from './Module/admin/admin.module';
 @NgModule({
   declarations: [
     AppComponent,
@@ -22,7 +23,7 @@ import { SharedModule } from './Module/shared/shared.module';
     BrowserAnimationsModule,
     FeatureModule,
     SharedModule,
-   
+   AdminModule
   ],
   providers: [],
   bootstrap: [AppComponent]
