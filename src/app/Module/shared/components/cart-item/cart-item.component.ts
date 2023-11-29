@@ -9,4 +9,7 @@ export class CartItemComponent {
   updateCartItem(num:number){
   console.log("num")
   }
+  removeCartItem(){
+    console.log("remove cart item")
+  }
 }

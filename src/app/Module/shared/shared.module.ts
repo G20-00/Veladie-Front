@@ -9,6 +9,7 @@ import { MatMenuModule } from '@angular/material/menu';
 import { ProductCardComponent } from './components/product-card/product-card.component';
 import { StartRatingComponent } from './components/start-rating/start-rating.component';
 import { CartItemComponent } from './components/cart-item/cart-item.component';
+import { AddressCardComponent } from './components/address-card/address-card.component';
 
 
 
@@ -19,7 +20,8 @@ import { CartItemComponent } from './components/cart-item/cart-item.component';
     NavContentComponent,
     ProductCardComponent,
     StartRatingComponent,
-    CartItemComponent
+    CartItemComponent,
+    AddressCardComponent
    
   ],
   imports: [
@@ -33,7 +35,8 @@ import { CartItemComponent } from './components/cart-item/cart-item.component';
     FooterComponent,
     ProductCardComponent,
     StartRatingComponent,
-    CartItemComponent
+    CartItemComponent,
+    AddressCardComponent
   ]
 })
 export class SharedModule { }
