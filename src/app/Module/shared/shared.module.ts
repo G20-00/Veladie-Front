@@ -10,6 +10,8 @@ import { ProductCardComponent } from './components/product-card/product-card.com
 import { StartRatingComponent } from './components/start-rating/start-rating.component';
 import { CartItemComponent } from './components/cart-item/cart-item.component';
 import { AddressCardComponent } from './components/address-card/address-card.component';
+import { OrderTrackerComponent } from './components/order-tracker/order-tracker.component';
+import { MatDividerModule } from '@angular/material/divider';
 
 
 
@@ -21,14 +23,16 @@ import { AddressCardComponent } from './components/address-card/address-card.com
     ProductCardComponent,
     StartRatingComponent,
     CartItemComponent,
-    AddressCardComponent
+    AddressCardComponent,
+    OrderTrackerComponent
    
   ],
   imports: [
     CommonModule,
     MatIconModule,
     MatButtonModule,
-    MatMenuModule
+    MatMenuModule,
+    MatDividerModule
   ],
   exports:[
     NavbarComponent,
@@ -36,7 +40,8 @@ import { AddressCardComponent } from './components/address-card/address-card.com
     ProductCardComponent,
     StartRatingComponent,
     CartItemComponent,
-    AddressCardComponent
+    AddressCardComponent,
+    OrderTrackerComponent
   ]
 })
 export class SharedModule { }

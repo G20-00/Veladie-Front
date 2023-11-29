@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./payment.component.scss']
 })
 export class PaymentComponent {
-
+products =[1,1,1]
 }

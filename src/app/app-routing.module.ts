@@ -11,7 +11,8 @@ import { OrderComponent } from './Module/feature/components/order/order.componen
 import { OrderDetailsComponent } from './Module/feature/components/order-details/order-details.component';
 import { AdminRoutingModule } from './Module/admin/admin-routing.module';
 
-const routes: Routes = [{path: "admin", loadChildren:()=>import("./Module/admin/admin-routing.module").then(m=>AdminRoutingModule)},
+const routes: Routes = [
+  {path: "admin", loadChildren:()=>import("./Module/admin/admin-routing.module").then(m=>AdminRoutingModule)},
   {path:"", component:HomeComponent},
   //{path:"product", component:ProductsComponent},
  
@@ -21,7 +22,7 @@ const routes: Routes = [{path: "admin", loadChildren:()=>import("./Module/admin/
   {path:"checkout/payment/:id",component:PaymentComponent},
   {path:':lavelOne/:lavelTwo/:lavelThree', component: ProductsComponent},
   {path: "payment-success", component:PaymentSuccessComponent},
-  {path:"account/orders ",component:OrderComponent},
+  {path:"account/orders",component:OrderComponent},
   {path:"order/:id",component:OrderDetailsComponent},
   
 
