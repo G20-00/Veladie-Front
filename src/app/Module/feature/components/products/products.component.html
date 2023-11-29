@@ -1,5 +1,5 @@
-<div class="">
-    <main class=" px-4 sm:px-6 lg:px-40 pb-10">
+<div class="flex flex-col items-center ">
+    <main class=" px-4 sm:px-6 max-w-7x1 pb-10">
         <div class="flex items-baseline justify-between border-gray-200 pb-6 pt-24">
             <h1 class="text-4x1 font-bold text-white "> Products</h1>
             <div class="flex items-center">
@@ -41,6 +41,7 @@
                                                 
                                                    [name] = "item.id"
                                                    [value] = "option.value"
+                                                   (click)="handleMultipleSelectFilter(option.value,item.id)"
                                                     >
                                                     <span class="text-sm text-gray-50">{{option.label}}</span>
                                                     
@@ -67,6 +68,7 @@
                                                 
                                                    [name] = "item.id"
                                                    [value] = "option.value"
+                                                   (click)="handleSingleSelectFilter(option.value,item.id)"
                                                     >
                                                     <span class="text-sm text-gray-50">{{option.label}}</span>
                                                     
