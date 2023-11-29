@@ -1,7 +1,7 @@
 export const lehngacholiPage2=[
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/y/g/m/l-sleeveless-shset95222-shae-by-sassafras-original-imaggjzkwyyyezzg.jpeg?q=70",
+      "https://i.pinimg.com/originals/4e/10/1d/4e101deeb773a4969fc6e13cb0dbcc22.jpg",
     brand: "Shae by SASSAFRAS",
     title: "Printed Stitched Lehenga Choli",
     color: "Grey",
@@ -12,7 +12,7 @@ export const lehngacholiPage2=[
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/knyxqq80/salwar-kurta-dupatta/q/i/q/32-skd7385-biba-original-imag2jag2zzz3shw.jpeg?q=70",
+      "https://st4.depositphotos.com/12985790/25241/i/450/depositphotos_252418874-stock-photo-surprised-boyfriend-attractive-girlfriend-denim.jpg",
     brand: "BIBA",
     title: "Solid Stitched Lehenga Choli",
     color: "Yellow",
@@ -23,7 +23,7 @@ export const lehngacholiPage2=[
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/krme93k0/lehenga-choli/9/t/e/free-half-sleeve-ghaghra-choli-coconut-original-imag5df5ktsnnypv.jpeg?q=70",
+    "data:image/jpeg;base64,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",
     brand: "ZAALIMA FASHION",
     title: "Embroidered Semi Stitched Lehenga Choli",
     color: "Green",
@@ -34,7 +34,8 @@ export const lehngacholiPage2=[
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/l/x/d/free-full-sleeve-lehenga-lehenga-for-women-lehenga-choli-net-original-imaggcwfb3pjh2hf.jpeg?q=70",
+
+"https://danidrops.com.br/wp-content/uploads/2020/09/Modelos-Roupas-Casuais-Elegantes-05.jpg",
     brand: "Cute Fellow",
     title: "Embroidered Semi Stitched Lehenga Choli",
     color: "Purple",
@@ -45,7 +46,7 @@ export const lehngacholiPage2=[
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/kp78e4w0/lehenga-choli/n/n/d/free-short-sleeve-baby-pink-choli-trivety-original-imag3hbpwczdj2hu.jpeg?q=70",
+    "https://classmodelos.com/images/servicios/general/fotos/ecommerce_1-min.jpg",
     brand: "Trivety",
     title: "Embroidered Semi Stitched Lehenga Choli",
     color: "Pink",
@@ -56,7 +57,7 @@ export const lehngacholiPage2=[
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/g/0/m/free-sleeveless-zip1434-zinariya-fab-original-imagnftyaaaqjexa.jpeg?q=70",
+"https://images.unsplash.com/photo-1619785292559-a15caa28bde6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9kZWxvJTIwZGUlMjByb3BhfGVufDB8fDB8fHww",
     brand: "Zinariya Fab",
     title: "Floral Print Semi Stitched Lehenga Choli",
     color: "Blue",
@@ -64,379 +65,5 @@ export const lehngacholiPage2=[
     price: "3,099",
     disscount: "83% off",
     size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/l29c9e80/lehenga-choli/w/c/v/free-sleeveless-gulab02-rhet-fashion-original-imagdmy4cnbc839p.jpeg?q=70",
-    brand: "jahal fashion",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Red",
-    selling_price: "484",
-    price: "2,499",
-    disscount: "80% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/l1fc0i80/lehenga-choli/j/k/t/free-half-sleeve-modak-rama-gajri-dishwa-fashion-original-imagczmhzqmzpyy9.jpeg?q=70",
-    brand: "DECIZE CLOTHING",
-    title: "Self Design Semi Stitched Lehenga Choli",
-    color: "Pink, Green",
-    selling_price: "854",
-    price: "2,099",
-    disscount: "59% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/d/i/u/free-half-sleeve-big-tea-blue-trivety-original-imagnyd8rmf9cjqw.jpeg?q=70",
-    brand: "Trivety",
-    title: "Printed Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "479",
-    price: "1,499",
-    disscount: "68% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/l4u7vrk0/lehenga-choli/a/z/3/free-3-4-sleeve-jannat-maroon-jahal-fashion-original-imagfnap3f9zmnr3.jpeg?q=70",
-    brand: "jahal fashion",
-    title: "Self Design Semi Stitched Lehenga & Crop Top",
-    color: "Red",
-    selling_price: "424",
-    price: "1,999",
-    disscount: "78% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/f/c/9/s-short-sleeve-shset95212-shae-by-sassafras-original-imaghxqtcqfmxrur.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Embellished Stitched Lehenga Choli",
-    color: "White",
-    selling_price: "2,249",
-    price: "4,999",
-    disscount: "55% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/w/d/z/l-full-sleeve-shset95390-shae-by-sassafras-original-imagk4khzbgchqmn.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Embroidered Stitched Lehenga Choli",
-    color: "Purple",
-    selling_price: "1,934",
-    price: "4,299",
-    disscount: "55% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/j/e/6/free-sleeveless-new-designer-embroidred-sequins-heavy-work-original-imaggpy5gzt6m5hg.jpeg?q=70",
-    brand: "ZAALIMA FASHION",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Dark Blue",
-    selling_price: "784",
-    price: "1,999",
-    disscount: "60% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/kiw1dow0-0/lehenga-choli/d/d/a/free-half-sleeve-dulhen-7-lehenga-vm-tejani-original-imafykqgmxhzhf9y.jpeg?q=70",
-    brand: "NJ FASHION",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Red",
-    selling_price: "599",
-    price: "3,999",
-    disscount: "85% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/b/k/f/free-full-sleeve-lehenga-lehenga-for-women-lehenga-choli-net-original-imaggcvr8nhqehzf.jpeg?q=70",
-    brand: "Cute Fellow",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Maroon",
-    selling_price: "614",
-    price: "3,499",
-    disscount: "82% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/kvba7bk0/lehenga-choli/v/v/m/free-half-sleeve-new-ruffle-designer-lehenga-cholis-for-indian-original-imag88ryhq3gpupc.jpeg?q=70",
-    brand: "ZAALIMA FASHION",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Grey",
-    selling_price: "409",
-    price: "1,999",
-    disscount: "79% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/z/n/q/xs-sleeveless-shset95224-shae-by-sassafras-original-imaggjzgkvheh2ks.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Printed Stitched Lehenga Choli",
-    color: "Maroon",
-    selling_price: "1,919",
-    price: "4,799",
-    disscount: "60% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/j/p/i/xl-full-sleeve-shset95393-shae-by-sassafras-original-imagkmakcztfrrnf.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Printed Stitched Lehenga Choli",
-    color: "Purple",
-    selling_price: "2,114",
-    price: "4,699",
-    disscount: "55% off",
-    size: "",
-  },
-  {
-    "imageUrl":
-      "https://rukminim1.flixcart.com/image/612/612/krntoy80/lehenga-choli/z/n/8/free-3-4-sleeve-future-wine-goroly-original-imag5ezdwczgyb5m.jpeg?q=70",
-    brand: "GOROLY",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Purple",
-    selling_price: "792",
-    price: "3,999",
-    disscount: "80% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/kx6fwcw0/lehenga-choli/i/n/z/free-3-4-sleeve-kavya-lehengacholi-012-e-mart-original-imag9zx6ckfnthh5.jpeg?q=70",
-    brand: "E mart",
-    title: "Self Design Semi Stitched Lehenga Choli",
-    color: "Pink",
-    selling_price: "292",
-    price: "599",
-    disscount: "51% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/s/3/z/s-sleeveless-shset95191-shae-by-sassafras-original-imaghf5krhynk4zq.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Printed Stitched Lehenga & Crop Top",
-    color: "Gold",
-    selling_price: "1,679",
-    price: "4,199",
-    disscount: "60% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/kuzuoi80/lehenga-choli/g/4/f/m-short-sleeve-skdnew-age-7662-biba-original-imag7zn2xvyejmr3.jpeg?q=70",
-    brand: "BIBA",
-    title: "Printed Stitched Lehenga & Crop Top",
-    color: "Dark Blue",
-    selling_price: "4,800",
-    price: "7,500",
-    disscount: "36% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
-    brand: "anara",
-    title: "Digital Print Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "599",
-    price: "2,999",
-    disscount: "80% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/9/f/e/free-3-4-sleeve-jivikaaa-001-vajiba-original-imaggzcgrycypkc7.jpeg?q=70",
-    brand: "vajiba",
-    title: "Solid Semi Stitched Lehenga Choli",
-    color: "Maroon",
-    selling_price: "357",
-    price: "1,999",
-    disscount: "82% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/k4k7f680/lehenga-choli/c/n/c/free-lc-sansa-shree-impex-original-imafnf74t3peacjm.jpeg?q=70",
-    brand: "Shree Impex",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Dark Green",
-    selling_price: "694",
-    price: "5,999",
-    disscount: "88% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/b/s/2/free-3-4-sleeve-future-morpankh-goroly-original-imag5ez6uxhvwreb.jpeg?q=70",
-    brand: "GOROLY",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "794",
-    price: "3,999",
-    disscount: "80% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/u/n/b/s-sleeveless-skdrose-bow8586-off-white-biba-original-imagmw9eza8rzrp6.jpeg?q=70",
-    brand: "BIBA",
-    title: "Printed Stitched Lehenga Choli",
-    color: "White",
-    selling_price: "8,995",
-    price: "",
-    disscount: "",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/o/x/n/free-na-lehngacholi-2-yuvi-creation-original-imaghgxcrdthfdy4.jpeg?q=70",
-    brand: "Yuvi Creation",
-    title: "Embellished Semi Stitched Lehenga Choli",
-    color: "Light Blue",
-    selling_price: "2,239",
-    price: "3,900",
-    disscount: "42% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/l19m93k0/lehenga-choli/r/r/3/free-short-sleeve-sb-velentine-s-b-creation-original-imagcvdgh5ptkwuq.jpeg?q=70",
-    brand: "Anghanbrothers",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Red, Gold",
-    selling_price: "952",
-    price: "5,555",
-    disscount: "82% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/n/u/v/free-sleeveless-new-designer-embroidred-sequins-heavy-work-original-imaggbwhhhnmhxxd.jpeg?q=70",
-    brand: "ZAALIMA FASHION",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Purple",
-    selling_price: "799",
-    price: "3,399",
-    disscount: "76% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/u/r/v/free-na-phoshak-25jan-12-yuvi-creation-original-imagmay6w9fy22fb.jpeg?q=70",
-    brand: "Yuvi Creation",
-    title: "Printed Semi Stitched Lehenga Choli",
-    color: "Red, White",
-    selling_price: "999",
-    price: "1,900",
-    disscount: "47% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/z/9/n/xl-sleeveless-skdfestive8249aw22fus-biba-original-imaggtzgkt83qbew.jpeg?q=70",
-    brand: "BIBA",
-    title: "Printed Stitched Lehenga Choli",
-    color: "Pink",
-    selling_price: "4,197",
-    price: "5,995",
-    disscount: "29% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/l37mtu80/lehenga-choli/c/u/h/free-3-4-sleeve-jannat-maroon02120-r-h-comapany-original-imagedyttdhzpz8j.jpeg?q=70",
-    brand: "R&H COMAPANY",
-    title: "Self Design Semi Stitched Lehenga & Crop Top",
-    color: "Grey",
-    selling_price: "339",
-    price: "2,499",
-    disscount: "86% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/g/k/8/free-3-4-sleeve-jivikaaa-001-vajiba-original-imaggzbbszb6m54n.jpeg?q=70",
-    brand: "vajiba",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Red",
-    selling_price: "349",
-    price: "1,999",
-    disscount: "82% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/m/q/7/free-half-sleeve-pochampalli-pattu-fabcartz-original-imaggvyj73udeg3h.jpeg?q=70",
-    brand: "Fabcartz",
-    title: "Self Design Semi Stitched Lehenga Choli",
-    color: "Dark Green",
-    selling_price: "999",
-    price: "2,999",
-    disscount: "66% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/d/i/u/free-half-sleeve-big-tea-blue-trivety-original-imagnyd8rmf9cjqw.jpeg?q=70",
-    brand: "Trivety",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "649",
-    price: "2,699",
-    disscount: "75% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/3/o/3/xl-sleeveless-shset95392-shae-by-sassafras-original-imagkmapsgbgup8r.jpeg?q=70",
-    brand: "Shae by SASSAFRAS",
-    title: "Floral Print Stitched Lehenga Choli",
-    color: "Dark Blue",
-    selling_price: "1,679",
-    price: "4,199",
-    disscount: "60% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/g/0/m/free-sleeveless-zip1434-zinariya-fab-original-imagnftyaaaqjexa.jpeg?q=70",
-    brand: "Pink She",
-    title: "Digital Print Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "460",
-    price: "3,099",
-    disscount: "85% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/f/g/b/free-3-4-sleeve-jivikaaa-001-vajiba-original-imaggzc8mespdkr6.jpeg?q=70",
-    brand: "vajiba",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Blue",
-    selling_price: "331",
-    price: "1,999",
-    disscount: "83% off",
-    size: "",
-  },
-  {
-    image:
-      "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/g/x/s/free-full-sleeve-purple-lehenga-ishu-fab-original-imagnzgvgeq85gt8.jpeg?q=70",
-    brand: "ISHU FAB",
-    title: "Embroidered Semi Stitched Lehenga Choli",
-    color: "Purple",
-    selling_price: "711",
-    price: "2,499",
-    disscount: "71% off",
-    size: "",
-  },
+  }
 ];
