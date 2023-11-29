@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { lehngacholiPage2 } from 'src/Data/Saree/lenghaCholiPage2';
 
 @Component({
   selector: 'app-product-details',
@@ -6,5 +7,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./product-details.component.scss']
 })
 export class ProductDetailsComponent {
-
+selectedSize:any;
+reviews=[1,1,1];
+relatedProducts :any;
+ngOnInit(){
+  this.relatedProducts= lehngacholiPage2;
+}
+handleAddToCart(){
+  console.log("selected size ", this.selectedSize)
+}
 }

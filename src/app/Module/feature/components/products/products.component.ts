@@ -42,4 +42,5 @@ handleSingleSelectFilter(value:string, sectionId:string){
   this.router.navigate([],{queryParams})
   console.log(queryParams)
 }
+
 }
