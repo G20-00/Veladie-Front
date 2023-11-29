@@ -12,6 +12,9 @@ import {MatMenuModule} from '@angular/material/menu';
 import { FeatureModule } from './Module/feature/feature.module';
 import { SharedModule } from './Module/shared/shared.module';
 import { AdminModule } from './Module/admin/admin.module';
+import { StoreModule } from '@ngrx/store';
+import { productReducer } from './State/Product/produc.reducer';
+import { HttpClientModule } from '@angular/common/http';
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,7 +26,9 @@ import { AdminModule } from './Module/admin/admin.module';
     BrowserAnimationsModule,
     FeatureModule,
     SharedModule,
-   AdminModule
+   AdminModule,
+   HttpClientModule,
+   StoreModule.forRoot({product: productReducer}, {})
   ],
   providers: [],
   bootstrap: [AppComponent]

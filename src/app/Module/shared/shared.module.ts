@@ -41,7 +41,8 @@ import { MatDividerModule } from '@angular/material/divider';
     StartRatingComponent,
     CartItemComponent,
     AddressCardComponent,
-    OrderTrackerComponent
+    OrderTrackerComponent,
+    
   ]
 })
 export class SharedModule { }
